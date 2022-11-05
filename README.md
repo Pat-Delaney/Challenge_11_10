@@ -1,5 +1,5 @@
 # Challenge_11_10
-![Screenshot of the program working as intended}(https:/github.com/Pat-Delaney/challenge_11_10/blob/images/screenshot.png?raw=true)
+![Screenshot of the program working as intended](https:/github.com/Pat-Delaney/challenge_11_10/blob/images/screenshot.png?raw=true)
 # Introduction
 
 This program is a refinement of the example file provided as part of the week 1 challenge of the UW coding bootcamp, whose objective is to ensure accessibility standards. The final product can be found at https://pat-delaney.github.io/challenge_11_10/
