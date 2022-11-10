@@ -24,7 +24,7 @@ h1 {
     color: #d9dcd6;
 }
 
-header div {
+header nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -32,7 +32,7 @@ header div {
     font-size: 20px;
 }
 
-header div ul li {
+header nav ul li {
     list-style-type: none;
     display: inline-block;
     margin-left: 25px;
@@ -56,7 +56,7 @@ p {
     background-position: center;
 }
 
-.main-box {
+main {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
